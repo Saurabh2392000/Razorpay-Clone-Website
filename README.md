@@ -1,5 +1,12 @@
 # Razorpay-Clone-Website
-Razorpay Clone Website built with technologies like HTML, Tailwind CSS and JavaScript.This project allowed me to dive deep into HTML, Tailwind CSS and JavaScript honing my expertise in these technologies. By paying meticulous attention to every detail, I successfully recreated the functionalities and user experience of Razorpay .
+
+Welcome to Clone of Razorpay Website. Powered by cutting-edge technologies like HTML, Tailwind CSS, and JavaScript.
+Razorpay clone website designed with a sleek and user-friendly interface.
+Through the development of this project, I have not only expanded my web development skills but also showcased my ability to replicate a renowned Website (i.e Razorpay) with precision and finesse. This project allowed me to dive deep into HTML, Tailwind CSS, and JavaScript, honing my expertise in these technologies. By paying meticulous attention to every detail, I successfully recreated the functionalities and user experience of Razorpay. This project has been instrumental in boosting my confidence as a web developer and has equipped me with the skills necessary to tackle future challenges in the field
+
+Below I am attaching the Screenshot of final Clone Website.
+
+
 <img width="960" alt="Screenshot rp-1" src="https://github.com/Saurabh2392000/Razorpay-Clone-Website/assets/98042689/81cc7c0d-86c4-4e07-8e9a-f888f9443bb9">
 <img width="960" alt="Screenshot rp-2" src="https://github.com/Saurabh2392000/Razorpay-Clone-Website/assets/98042689/175b53c7-33e7-4a79-9c2b-57b158343324">
 <img width="960" alt="Screenshot rp-3" src="https://github.com/Saurabh2392000/Razorpay-Clone-Website/assets/98042689/1e61336b-75ed-4f1f-8db4-d4d569eb5fbc">
